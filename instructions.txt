@@ -1,0 +1,13 @@
+1)X Add jQuery into the project (bottom of the body tag)
+2)X Add the app.js script tag under the jQuery script tag
+3)X Go into app.js and select all the elements with the class of 'navItem'
+4)X On each of the navItem elements change the color to white.
+5)X Now select the element with the ID of 'nav'
+6)X Give that element a background color of #145
+7)X Select all the even list items
+8)X Change the background color to #ccc
+9)X Select all the odd list items
+10)X Change the background color to #aaa
+11)X Select the input tag
+12)X Change the value to be your first name
+13) Push this code up to github and turn in the link to your repository in canvas
